@@ -44,7 +44,7 @@ env:
   # .txt transcript used for testing.
   TEST_ZIP_SOURCE_PATH: "testing/audio-and-trans.zip"
   # version of Speech CLI tool to install and use
-  SPX_VERSION: "1.0.0"
+  SPX_VERSION: "1.16.0"
 
 jobs:
   #############################################################################
